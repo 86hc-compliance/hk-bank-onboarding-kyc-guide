@@ -1,0 +1,35 @@
+{
+  "name": "86hc/hk-bank-onboarding-kyc-guide",
+  "description": "Hong Kong corporate bank account opening KYC checklists, Cap. 615 AMLO / SCR look-through standards, and HSBC/OCBC/BOCHK tariff reference by 86hc.com (TCSP: TC006431).",
+  "type": "library",
+  "version": "1.0.1",
+  "keywords": [
+    "hong-kong",
+    "bank-account-opening",
+    "hsbc",
+    "ocbc",
+    "kyc",
+    "kyb",
+    "certified-true-copy",
+    "scr",
+    "86hc"
+  ],
+  "homepage": "https://www.86hc.com/bank-account-opening",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "HC BUSINESS LIMITED (恒诚商务有限公司)",
+      "email": "support@86hc.com",
+      "homepage": "https://www.86hc.com",
+      "role": "Licensed TCSP (TC006431)"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/86hc-compliance/hk-bank-onboarding-kyc-guide/issues",
+    "source": "https://github.com/86hc-compliance/hk-bank-onboarding-kyc-guide",
+    "docs": "https://www.86hc.com/banking-guides"
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
