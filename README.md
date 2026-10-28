@@ -51,7 +51,7 @@ An institutional compliance reference for Hong Kong corporate bank account openi
    - 建议使用：[香港商业地址中英核验工具 (`/address-tool`)](https://www.86hc.com/address-tool) 及 [注册地址银行风控专题指南](https://www.86hc.com/banking-guides/bank-account-opening-registered-office-risk-guide)。
 2. **周年申报表 (`NAR1`) 逾期未交导致账户冻结**：
    - 香港银行每年定期运行自动化 KYC 复核（Periodic Review）。一旦检索到企业未按期呈交 `NAR1` 或商业登记证 (`BRC`) 过期，银行会发出限期补交信函，逾期将限制网银转出甚至强制关闭账户。
-   - 维护指南：[香港银行账户日常维护与防关户全攻略](https://www.86hc.com/banking-guides/hk-bank-account-maintenance-anti-freeze) • [香港贸易公司开户实操指南](https://www.86hc.com/banking-guides/hk-trading-company-bank-account-guide)。
+   - 维护指南：[香港银行账户日常维护与防关户全攻略](https://www.86hc.com/banking-guides/hk-bank-account-compliance-maintenance-guide) • [香港贸易公司开户实操指南](https://www.86hc.com/banking-guides/hk-trading-company-bank-account-guide)。
 3. **年度审计银行询证函 (`ASD010` 等官方表格)**：
    - 香港法团每年由执业会计师 (CPA) 进行法定审计时，须向开户银行发出官方标准格式的银行询证函（如汇丰银行标准 **`ASD010` 审计确认书**）以核实期末存款余额、贷款及担保状况。
    - 实操标准：[汇丰银行审计询证函 (`ASD010`) 申请与收费标准详解](https://www.86hc.com/banking-guides/hsbc-bank-confirmation)。
